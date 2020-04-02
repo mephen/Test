@@ -1,2 +1,2 @@
 # Test
-Test import repository to github
+Test importing repository to github
